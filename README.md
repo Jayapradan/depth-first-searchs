@@ -82,8 +82,8 @@ visited = defaultdict(bool)
 path = []
 
 traversedpath = dfs(graph, start, visited, path)
-print("THIRUMALAI K")
-print("212224240176")
+print("JAYAPRADAN M")
+print("212224240061")
 print("DFS Traversal Path:", traversedpath)
 ```
 
@@ -108,7 +108,8 @@ F H <BR>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
 <hr>
-<img width="686" height="321" alt="image" src="https://github.com/user-attachments/assets/4bb03ba2-7a41-4de0-82fb-50275479677d" />
+<img width="1046" height="265" alt="image" src="https://github.com/user-attachments/assets/b222a542-8598-4389-89cd-a9eddaeb7b5d" />
+
 
 
 <hr>
